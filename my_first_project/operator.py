@@ -28,6 +28,3 @@ f_name='Fahad '
 l_name='Ali'
 print(f_name+l_name)
 print(f_name+l_name.upper())
-
-
-print(dir(a))
