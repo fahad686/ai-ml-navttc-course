@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1aeec27-ccea-492d-91ff-220032b00f57" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/type_casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/type_casting.py" afterDir="false" />
-    </list>
+    <list default="true" id="c1aeec27-ccea-492d-91ff-220032b00f57" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1756828116886</updated>
       <workItem from="1756828117926" duration="747000" />
-      <workItem from="1756912928396" duration="2239000" />
+      <workItem from="1756912928396" duration="2343000" />
     </task>
     <servers />
   </component>
