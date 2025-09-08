@@ -41,3 +41,22 @@ print(fruits)
 
 fruits1=fruits
 print("assigning list",fruits1)
+
+
+#extend add on list  to 2nd list
+product1=['mobile','airbirds','iphone']
+product2=['amrood','banana','handfree']
+print(product1)
+print(product2)
+product1.extend(product2)
+
+#pop
+items=product1.pop(2)
+print(items)
+
+print(product1)
+
+#collect garbeg collect , use pop for  taking garbege collection, and remove use permanent element
+
+product1.remove('mobile')
+print(product1)
