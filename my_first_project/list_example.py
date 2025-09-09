@@ -50,6 +50,10 @@ print(product1)
 print(product2)
 product1.extend(product2)
 
+## append
+
+product1.append(1200)
+print('yyyyyyyy',product1)
 #pop
 items=product1.pop(2)
 print(items)
@@ -60,3 +64,45 @@ print(product1)
 
 product1.remove('mobile')
 print(product1)
+
+
+
+
+## Advance list  like 2D list 3d List
+## list inside list  called 2D List
+##
+
+fruits_veg=[['apple','banana','mango'],['potato','Brinjal','Radish']]
+print(fruits_veg)
+
+##print first element of 2d list
+print(fruits_veg[0][1])
+
+## print iside char list element output will be R
+print(fruits_veg[1][2][0])
+
+##jumiping output will be ['apple', 'banana']
+print(fruits_veg[0][0:2])
+
+
+##complicated 3d
+
+veg=['potato',['color', ['red','green'],'taste',['sweet','karwah'] ,]]
+
+
+print(veg)
+##access  taste
+
+print(veg[1][2])
+# print(veg[1])
+# print(veg[0][1])
+# print(veg[1][0])
+##
+# print(veg[0][0][])
+
+
+
+
+
+
+
