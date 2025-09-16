@@ -37,13 +37,9 @@ def calculator():
         choice=input("Do you want to quit? (yes/no)")
         if choice =='yes' or choice=='YES' or choice =='y':
             print('Thanks for using . Good bey!')
-            break
-
-
+            continue
         elif choice == 'no' or choice =='n' or choice =='No':
             print('Calculator Restarting....')
-
-
 
 
 
