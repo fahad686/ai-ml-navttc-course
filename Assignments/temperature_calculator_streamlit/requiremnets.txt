@@ -1,0 +1,16 @@
+Enter  Units for
+temp:
+
+radio button
+.K
+.F
+.C
+
+Enter Temperature in farhenheigt
+ input()
+
+convert button
+
+Temp in Celciou:....
+Temp in Kelvin:.....
+Temp in Farenheight:.....
