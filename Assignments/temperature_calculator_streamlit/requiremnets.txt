@@ -6,10 +6,10 @@ radio button
 .F
 .C
 
-Enter Temperature in farhenheigt
+Enter Temperature in units
  input()
 
-convert button
+convert temp
 
 Temp in Celciou:....
 Temp in Kelvin:.....
