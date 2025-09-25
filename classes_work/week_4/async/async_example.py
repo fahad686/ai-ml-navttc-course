@@ -14,12 +14,12 @@ start_time=time.time()
 async  def boil_water():
     print('start boiling water')
     await asyncio.sleep(2)
-    print('boild water done')
+    print('boiled water done in 2 sec....')
 
 async  def bread_toasted():
     print('bread dop in toster....')
     await asyncio.sleep(3)
-    print('tosted successfuly..')
+    print('tosted successfully in 3 sec....')
 
 async def breakfast_preparing():
     print('Start making breakfast....!')
@@ -28,7 +28,7 @@ async def breakfast_preparing():
         bread_toasted()
     )
     end_time=time.time()
-    print(f'end time{end_time-start_time:.2f}')
+    print(f'total time in {end_time-start_time:.2f} sec')
 
 
 asyncio.run(breakfast_preparing())
