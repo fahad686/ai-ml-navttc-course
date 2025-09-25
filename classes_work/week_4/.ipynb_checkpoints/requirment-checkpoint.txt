@@ -1,0 +1,4 @@
+# pip  package  manager of python Streamlit(used for web like html, css,js)
+
+#chainlit library used for creating chat bots
+
