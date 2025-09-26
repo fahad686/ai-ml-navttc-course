@@ -102,5 +102,3 @@ st.image("https://i.pinimg.com/736x/70/7c/85/707c85fdd3cadf5a182ffda907c54576.jp
 st.video("assets/Angry_Robot_Chef_Cooking_Entertainment_video_of_ai_robot.mp4",width=250,)
 
 
-##selected option
-st.write()

@@ -39,8 +39,8 @@ while True:
 
     choice=input('Do you want to quit? yes/no : ')
     if choice =='no' or choice =='n':
-        break
-    elif choice=='yes' or choice =='y':
         continue
+    elif choice=='yes' or choice =='y':
+        break
 
 
