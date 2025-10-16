@@ -64,3 +64,15 @@ print("\n" + "-" * 40)
 high_performing_stores = df[df['Total Sales'] > 1000]
 print("High-performing stores (total sales > 1000):")
 print(high_performing_stores)
+
+## by default iloc uses zero-based indexing iloc[row_index, column_index]
+print(df.iloc[0])  # First row
+print(df.iloc[:, 0])  # First column
+print(df.iloc[0, 0])  # First element
+print(df)
+
+
+print(df.iloc[1,3])  # Second row, fourth column
+
+#Solution 2: Use .loc[] for label-based selection
+print(df.loc['Store B', 'Day 1':'Day 3'])
