@@ -1,0 +1,13 @@
+date 21 oct
+
+Feed Forward Neural Network
+Backpropagation
+Activation Functions
+Loss functions
+Optimizers
+
+
+
+AI course
+
+https://www.coursera.org/learn/introduction-tensorflow
